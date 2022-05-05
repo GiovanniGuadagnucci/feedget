@@ -5,3 +5,7 @@
 body {
     @apply bg-slate-900 text-zinc-200
 }
+
+header {
+    @apply -mb-5
+}

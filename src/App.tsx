@@ -1,5 +1,5 @@
-import { WidgetButton } from "./components/WidgetButton";
+import { Widget } from "./components/Widget";
 
 export function App() {
-  return <WidgetButton />;
+  return <Widget />;
 }
